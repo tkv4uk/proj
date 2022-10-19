@@ -1,4 +1,4 @@
-print("Введите N ")
+print(" Введите N ")
 n = int(input())
 f1 = 0
 f2 = 1
@@ -9,4 +9,4 @@ while n - 1 > i:
     f2 = fn
     i = i + 1
 
-print(fn)
+print(" Число фибоначчи ", fn)
